@@ -1,0 +1,47 @@
+{
+    "data": [
+      {
+        "id": 1,
+        "name": "Ball",
+        "price": 40,
+        "stock": 25
+      },
+      {
+        "id": 2,
+        "name": "Bat",
+        "price": 1200,
+        "stock": 5
+      },
+      {
+        "id": 3,
+        "name": "HP pendrive",
+        "price": 350,
+        "stock": 31
+      },
+      {
+        "id": 4,
+        "name": "Mouse",
+        "price": 650,
+        "stock": 6
+      },
+      {
+        "id": 5,
+        "name": "Keyboard",
+        "price": 1100,
+        "stock": 8
+      },
+      {
+        "id": 6,
+        "name": "Shoes",
+        "price": 850,
+        "stock": 5
+      },
+      {
+        "id": 7,
+        "name": "Watch",
+        "price": 2000,
+        "stock": 9
+      }
+    ]
+  }
+  
