@@ -1,0 +1,21 @@
+.timerContainer{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 50px;
+  gap: 30px;
+  justify-content: center;
+}
+
+.timer{
+  background-color: black;
+  color: white;
+  border-radius: 4px;
+  padding: 4px;
+}
+
+.buttonContainer{
+display: flex;
+gap: 20px;
+
+}
